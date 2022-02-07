@@ -1,0 +1,5 @@
+# Project exclude paths
+/dubbo_service/target/
+/out_sdk/target/
+/dubbo_third_project.iml
+/.idea/
